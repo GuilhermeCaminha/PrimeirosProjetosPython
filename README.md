@@ -10,3 +10,5 @@ Projeto 3 - Jogo de adivinhação, com a deifinição de um valor máximo pelo u
 Projeto 4 - Jogo de Pedra, Papel e Tesoura, com a definição do confronto pela escolha automática do computador, com indicação de vitórias, derrotas e empates.
 
 Projeto 5 - Jogo de Aventura, no qual o jogador possui sempre 2 escolhas e cada escolha se ramifica em opções de aventuras diversas, trabalhando os comandos: "if", "elif" e "else", bem como "while", "break" e "input".
+
+Projeto 6 - Microssistema de auxílio ("HELP") para funcionalidades do Python.
